@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Nikhil Singh Bora</h1>
-<h3 align="center">A CSE student exploring new things in the dynamic world!</h3>
+<h2 align="center">< Hey there. Welcome!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> /></h2>
+<h2 align="center">Aspiring Software Developer | Android Development Enthusiast</h2>
+<br>
+
+<br/>
+Hi, I'm Nikhil Singh Bora, a CSE student 🚀 from Rajasthan, India. Currently learning and exploring new things,Besides coding almost on daily basis, I also enjoy to play video games.🔥
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsinghbora&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsinghbora" /> </p>
-<img align="right" alt="Coding" src="https://github.com/Nikhilsinghbora/Nikhilsinghbora/blob/main/image_processing20210321-18698-ccjer5.gif">
+
+<img height=360 width=400 align="right" alt="Coding" src="https://github.com/Nikhilsinghbora/Nikhilsinghbora/blob/main/image_processing20210321-18698-ccjer5.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilsinghbora" alt="nikhilsinghbora" /></a> </p>
 
+
+
+**About Me** 👨‍🎓
 - 🌱 I’m currently learning **Competitive programming , Android Development and Web development**
 
 - 💬 Ask me about **C and C++**
