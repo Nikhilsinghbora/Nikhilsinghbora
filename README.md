@@ -2,7 +2,7 @@
 <h3 align="center">A CSE student exploring new things in the dynamic world!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsinghbora&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsinghbora" /> </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/Nikhilsinghbora/Nikhilsinghbora/blob/main/image_processing20210321-18698-ccjer5.gif">
+<img align="right" alt="Coding" src="https://github.com/Nikhilsinghbora/Nikhilsinghbora/blob/main/image_processing20210321-18698-ccjer5.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilsinghbora" alt="nikhilsinghbora" /></a> </p>
 
