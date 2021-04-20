@@ -34,4 +34,4 @@ Hi, I'm Nikhil Singh Bora, a CSE student 🚀 from Rajasthan, India. Currently l
 
 <img src="https://github-readme-stats.vercel.app/api?username=nikhilsinghbora&show_icons=true&locale=en" alt="nikhilsinghbora" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsinghbora&" alt="nikhilsinghbora" />
 
-                                               |:------------:|:------------:|
+                                                |:------------:|:------------:|
