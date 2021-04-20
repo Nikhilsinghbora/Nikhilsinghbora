@@ -22,7 +22,7 @@ Hi, I'm Nikhil Singh Bora, a CSE student 🚀 from Rajasthan, India. Currently l
 
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilsinghbora" alt="nikhilsinghbora" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilsinghbora" alt="nikhilsinghbora" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
