@@ -9,9 +9,6 @@ Hi, I'm Nikhil Singh Bora, a CSE student 🚀 from Rajasthan, India. Currently l
 
 <img height=360 width=400 align="right" alt="Coding" src="https://github.com/Nikhilsinghbora/Nikhilsinghbora/blob/main/image_processing20210321-18698-ccjer5.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilsinghbora" alt="nikhilsinghbora" /></a> </p>
-
-
 
 **About Me** 👨‍🎓
 - 🌱 I’m currently learning **Competitive programming , Android Development and Web development**
@@ -21,6 +18,9 @@ Hi, I'm Nikhil Singh Bora, a CSE student 🚀 from Rajasthan, India. Currently l
 - 📫 How to reach me **nihkilsinghbora17@gmail.com**
 
 - ⚡ Fun fact **A gamer wants to learn everything...**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilsinghbora" alt="nikhilsinghbora" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
