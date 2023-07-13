@@ -3,7 +3,7 @@
 <br>
 
 <br/>
-Hi, I'm Nikhil Singh Bora, a Data Science Engineer 🚀 from Rajasthan, India. Currently learning and exploring new things, Besides coding almost on a daily basis, I also enjoy playing video games.🔥
+Hi, I'm Nikhil Singh Bora, a Data Science Engineer 🚀 @Info Object. Currently learning and exploring new things🔥.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsinghbora&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsinghbora" /> </p>
 
