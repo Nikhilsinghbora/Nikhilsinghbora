@@ -1,9 +1,9 @@
 <h2 align="center">< Hey there. Welcome!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> /></h2>
-<h2 align="center">Aspiring Software Developer | Android Development Enthusiast</h2>
+<h2 align="center">Data Science Engineer</h2>
 <br>
 
 <br/>
-Hi, I'm Nikhil Singh Bora, a CSE student 🚀 from Rajasthan, India. Currently learning and exploring new things,Besides coding almost on daily basis, I also enjoy to play video games.🔥
+Hi, I'm Nikhil Singh Bora, a Data Science Engineer 🚀 from Rajasthan, India. Currently learning and exploring new things, Besides coding almost on a daily basis, I also enjoy playing video games.🔥
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsinghbora&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsinghbora" /> </p>
 
@@ -11,13 +11,13 @@ Hi, I'm Nikhil Singh Bora, a CSE student 🚀 from Rajasthan, India. Currently l
 
 
 **About Me** 👨‍🎓
-- 🌱 I’m currently learning **Competitive programming , Android Development and Web development**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **C and C++**
+- 💬 Ask me about **C,C++,Kotlin and Python**
 
 - 📫 How to reach me **nihkilsinghbora17@gmail.com**
 
-- ⚡ Fun fact **A gamer wants to learn everything...**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
