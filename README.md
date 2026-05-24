@@ -89,20 +89,20 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilsinghbora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="180em"
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilsinghbora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
 
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilsinghbora&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180em"
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilsinghbora&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=nikhilsinghbora&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
+    width="98%"
+    src="https://streak-stats.demolab.com?user=nikhilsinghbora&theme=tokyonight&hide_border=true"
   />
 </p>
 ---
