@@ -56,7 +56,7 @@
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,kotlin" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,kotlin" />
 </p>
 
 ### ⚙️ Backend & Frameworks
@@ -65,10 +65,6 @@
 </p>
 
 ### 🤖 AI / ML / Generative AI
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
 - LangChain
 - LlamaIndex
 - Hugging Face
@@ -92,14 +88,25 @@
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsinghbora&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsinghbora&layout=compact&theme=tokyonight" height="180em"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nikhilsinghbora&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsinghbora&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsinghbora&theme=tokyonight" />
+  <img 
+    src="https://streak-stats.demolab.com?user=nikhilsinghbora&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -114,7 +121,7 @@ class NikhilSinghBora:
         self.learning = [
             "AI Agents",
             "Advanced RAG",
-            "LLM Optimization",
+            "LLM Optimisation",
             "FastAPI Architecture"
         ]
         self.interests = [
