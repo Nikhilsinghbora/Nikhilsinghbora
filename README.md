@@ -1,37 +1,127 @@
-<h2 align="center">< Hey there. Welcome!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> /></h2>
-<h2 align="center">Data Science Engineer</h2>
-<br>
+<h1 align="center">Hey there 👋, I'm Nikhil Singh Bora</h1>
+<h3 align="center">🚀 Generative AI Engineer | Data Scientist | FastAPI Developer</h3>
 
-<br/>
-Hi, I'm Nikhil Singh Bora, a Data Science Engineer 🚀 @Info Object. Currently learning and exploring new things🔥.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsinghbora&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsinghbora" /> </p>
-
-<img height=360 width=400 align="right" alt="Coding" src="https://github.com/Nikhilsinghbora/Nikhilsinghbora/blob/main/image_processing20210321-18698-ccjer5.gif">
-
-
-**About Me** 👨‍🎓
-- 🌱 I’m currently learning **Data Science**
-
-- 💬 Ask me about **C,C++,Kotlin and Python**
-
-- 📫 How to reach me **nihkilsinghbora17@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/boranikhilsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="boranikhilsingh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/nihkilsingh_17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nihkilsingh_17" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/19egjcs151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="19egjcs151" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nikhilsinghbora_17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="nikhilsinghbora_17" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Generative+AI+Engineer;FastAPI+Developer;RAG+Systems+Builder;Open+Source+Learner;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhilsinghbora&label=Profile%20Views&color=0e75b6&style=flat" alt="nikhilsinghbora" />
+</p>
 
-<p><img  align ="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilsinghbora&show_icons=true&locale=en&layout=compact" alt="nikhilsinghbora" /></p>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilsinghbora&show_icons=true&locale=en" alt="nikhilsinghbora" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsinghbora&" alt="nikhilsinghbora" />
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-                                                |:------------:|:------------:|
+## 👨‍💻 About Me
+
+- 🔥 Working as a **Data Scientist @ InfoObjects**
+- 🌱 Currently exploring **Advanced Generative AI & AI Agents**
+- 🧠 Building projects using **LLMs, RAG, FastAPI, LangChain & Vector Databases**
+- 💬 Ask me about:
+  - Python
+  - FastAPI
+  - Generative AI
+  - Machine Learning
+  - RAG Systems
+  - NLP
+- ⚡ Fun fact: I love building AI products that solve real-world problems
+- 📫 Reach me at: **nikhilsinghbora17@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nikhilsinghbora/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="35" width="35" />
+</a>
+
+<a href="https://github.com/Nikhilsinghbora" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="35" width="35" />
+</a>
+
+<a href="https://www.hackerrank.com/19egjcs151" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="35" width="35" />
+</a>
+
+<a href="https://codeforces.com/profile/nikhilsinghbora_17" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" alt="codeforces" height="35" width="35" />
+</a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,kotlin" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
+
+### 🤖 AI / ML / Generative AI
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+- LangChain
+- LlamaIndex
+- Hugging Face
+- OpenAI APIs
+- Ollama
+- Vector Databases
+- Prompt Engineering
+- RAG Pipelines
+
+### 🗄️ Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,azure,aws" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,linux" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsinghbora&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsinghbora&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsinghbora&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```python
+class NikhilSinghBora:
+
+    def __init__(self):
+        self.role = "Generative AI Engineer"
+        self.learning = [
+            "AI Agents",
+            "Advanced RAG",
+            "LLM Optimization",
+            "FastAPI Architecture"
+        ]
+        self.interests = [
+            "Building AI Products",
+            "Open Source",
+            "Backend Development"
+        ]
+
+    def say_hi(self):
+        print("Thanks for visiting my profile 🚀")
