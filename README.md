@@ -89,12 +89,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=nikhilsinghbora&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilsinghbora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
     height="180em"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsinghbora&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilsinghbora&layout=compact&theme=tokyonight&hide_border=true" 
     height="180em"
   />
 </p>
@@ -105,7 +105,6 @@
     alt="GitHub Streak"
   />
 </p>
-
 ---
 
 ## 🎯 Current Focus
