@@ -90,26 +90,30 @@
 <p align="center">
   <img 
     width="95%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsinghbora&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsinghbora&theme=default"
   />
 </p>
 
 <p align="center">
   <img 
     width="47%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilsinghbora&theme=tokyonight"
+    align="left"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilsinghbora&theme=default"
   />
 
   <img 
     width="47%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhilsinghbora&theme=tokyonight"
+    align="right"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhilsinghbora&theme=default"
   />
 </p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 <p align="center">
   <img 
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsinghbora&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsinghbora&theme=github-light&hide_border=true"
   />
 </p>
 ---
