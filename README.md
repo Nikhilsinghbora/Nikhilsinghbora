@@ -85,24 +85,31 @@
 </p>
 
 ---
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
   <img 
-    width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilsinghbora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  />
-
-  <img 
-    width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilsinghbora&layout=compact&theme=tokyonight&hide_border=true"
+    width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsinghbora&theme=tokyonight"
   />
 </p>
 
 <p align="center">
   <img 
-    width="98%"
-    src="https://streak-stats.demolab.com?user=nikhilsinghbora&theme=tokyonight&hide_border=true"
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilsinghbora&theme=tokyonight"
+  />
+
+  <img 
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhilsinghbora&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsinghbora&theme=tokyo-night&hide_border=true"
   />
 </p>
 ---
